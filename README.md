@@ -1,4 +1,8 @@
-### Hi there 👋
+# 💻 Ja Razal
+
+`Tryhard Techie`
+
+I'm a student currently exploring the world of tech! The tech projects you see here are the projects I used to progress through my Tech Journey.
 
 <!--
 **razi-j/razi-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
