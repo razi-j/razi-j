@@ -17,3 +17,4 @@ These are the languages and tools I'm currently trying out:
 <img align="left" width="50px" padding="20px" alt="HTML"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="left" width="50px" padding="20px" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="left" width="50px" padding="20px" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+<img align="left" width="50px" padding="20px" alt="GH" src=src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
