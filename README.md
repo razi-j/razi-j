@@ -5,11 +5,10 @@
 <div>
   <img align="right" width="500px" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
   <h1> Hello There! 👋</h1>
-<p>My name is Ja, and I am currently a student at <a href="https://www.feuhighschool.edu.ph/">FEU High School.<img width="20px" src="https://www.feuhighschool.edu.ph/wp-content/themes/feu_theme2019/assets/images/logofront.png"></a> I'm currently exploring the Tech World as I teach myself how to be a programmer. Check out the different projects I try to build!</p>
+<p>My name is Ja, and I am currently a student at <a href="https://www.feutech.edu.ph/">FEU Tech.<img width="20px" src="https://upload.wikimedia.org/wikipedia/en/6/62/FEU_Tech_official_seal.png"></a> I'm currently exploring the Tech World as I teach myself how to be a programmer. Check out the different projects I try to build!</p>
 </div>
 
-- 💻 Currently working on a research project here: [VertoMotus](https://github.com/razi-j/VertoMotus-FSLTranslator-Using-OpenCV-Tensorflow) <br>
-- 🤖 Check out an old Discord bot I tried making before: [Pan De Coco](https://github.com/razi-j/Pan-De-Coco)
+- 💻 Currently working on another discord bot [Apple Pie](https://github.com/razi-j/applepie) <br>
 - ✨ Fun Facts about me: I love *volleyball*, *video games*, and *music*! 
 
 
