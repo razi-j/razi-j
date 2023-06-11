@@ -12,8 +12,9 @@
 - ✨ Fun Facts about me: I love *volleyball*, *video games*, and *music*! 
 
 
----
-<div align="center">
+
+
+<div align="center">  
   <h2> 🧰 Languages and Tools </h2>
 
 <img align="center" width="70px" padding="20px" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
